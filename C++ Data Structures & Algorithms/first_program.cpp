@@ -9,7 +9,6 @@ int main() {
 
     cout << "Enter number b: ";
     cin >> b;
-
     // Print the label first, then the calculation
     cout << "Addition is: " << a + b << "\n";
     cout << "Subtraction is: " << a - b << "\n";
